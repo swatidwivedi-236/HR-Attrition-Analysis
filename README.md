@@ -22,5 +22,20 @@ to identify key reasons for employee attrition.
 Young + New joiners + Sales role + Low Salary + Overtime
 = Highest Attrition Risk
 
+## Business Recommendations 
+ 1. **Sales Team:** Attrition is very high in Sales. Managers should get training, and exit interviews should be done to understand why people leave.
+
+2. **Overtime Staff:** Employees who work overtime leave more often. The company should reduce workload or pay extra for overtime.
+
+3. **Low Salary Employees:** People with low salary leave the fastest. The company should review and improve salary bands.
+
+4. **New Employees:** Employees with 0-2 years leave a lot. A better onboarding and mentorship process is needed for them.
+
+5. **Sales Representatives:** This role has the highest attrition (39%). A focused retention plan is needed just for this role.
+
+6. **Work-Life Balance:** Employees with poor work-life balance leave more. Flexible hours or remote options can help.
+
+7. **Job Satisfaction:** Employees who are unhappy with their job leave more often. Regular feedback and clear growth paths can fix this.
+
 ## Dataset Source
 [IBM HR Analytics - Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
